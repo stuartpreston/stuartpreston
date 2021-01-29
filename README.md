@@ -1,6 +1,6 @@
 ### 👋 Hey there 
 
-I'm [Stuart Preston](https://stuartpreston.net), a technologist with more than two decades in industry. I live in the beautiful city of York in the north of England. From a career perspective, Ihave worked in positions all the way from Trainee/Helpdesk to CTO. These days I focus on building product, the world of open source and anything to do with the Microsoft ecosystem in general. ✨
+I'm [Stuart Preston](https://stuartpreston.net), a technologist with more than two decades in industry. I live in the beautiful [City of York](https://en.wikipedia.org/wiki/York) in the north of England. From a career perspective, I have worked in positions all the way from Trainee/Helpdesk to CTO. These days I focus on building product, the world of open source and anything to do with the Microsoft ecosystem in general. ✨
 
 ✨ Microsoft MVP for Azure since 2016.
 
