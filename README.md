@@ -1,6 +1,6 @@
 ### 👋 Hey there 
 
-I'm [Stuart Preston](https://stuartpreston.net), a technologist who lives in the beautiful [City of York](https://en.wikipedia.org/wiki/York) in the north of England. I have worked in positions all the way from Trainee/Helpdesk to CTO but these days I focus on building product, the world of open source and anything to do with the Microsoft ecosystem in general. I am currently building tools for developers using Kubernetes on Azure at [@polverio](https://polverio.com) ✨
+I'm [Stuart Preston](https://stuartpreston.net), a technologist who lives in the beautiful [City of York](https://en.wikipedia.org/wiki/York) in the north of England. I have worked in positions all the way from Trainee/Helpdesk to CTO but these days I focus on building product. ✨
 
 
 <a href="https://twitter.com/stuartpreston">
