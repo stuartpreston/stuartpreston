@@ -4,8 +4,8 @@ I'm [Stuart Preston](https://stuartpreston.net), a technologist who lives in the
 
 
 <a href="https://twitter.com/stuartpreston">
-  <img alt="Stuart Preston | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Stuart Preston | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/stuartpreston/">
-  <img alt="Stuart's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Stuart's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
 </a>
